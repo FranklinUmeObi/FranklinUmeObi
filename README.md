@@ -1,3 +1,5 @@
+![Franklin Ume Obiekwe](images\linkdin cover.png)
+
 ### Hi there, I'm [Franklin Ume Obiekwe][website] 👋
 
 ## I am a Developer, Designer and a Dreamer!
@@ -6,9 +8,6 @@
 - 🔭 I’m currently working on landing an Internship
 - 🌱 I’m currently learning everything (but currently focused on React)
 - 👯 I’m looking to collaborate on new group projects to strengthen my portfolio
-
-<br/>
-<br/>
 
 ### Here are my Socials:
 
@@ -44,24 +43,12 @@
 [![Franklins's github stats](https://github-readme-stats.vercel.app/api?username=FranklinUmeObi)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
+
+
 <!--Links-->
 [website]: https://franklinumeobi.com/
 [linkedIn]: https://www.linkedin.com/in/franklinumeobi/
 [instagram]: https://www.instagram.com/franklinumeobi/?hl=en
 [facebook]: https://www.facebook.com/franklinumeobi99
-
-
-<!--
-**FranklinUmeObi/FranklinUmeObi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
