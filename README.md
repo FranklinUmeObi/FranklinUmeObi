@@ -8,16 +8,19 @@
 - 👯 I’m looking to collaborate on new group projects to strengthen my portfolio
 
 ### Connect with me:
-![icon_website][website]
-![icon_linkedIn][linkedIn]
-![icon_instagram][instagram]
-![icon_facebook][facebook]
+[icon_website][website]
+[<img align="left" alt="Franklin" width="24px" src="https://www.flaticon.com/free-icon/linkedin_174857.svg" />][linkedIn]
+[icon_instagram][instagram]
+[icon_facebook][facebook]
 
 
 
 
 
 <!--Icons-->
+
+
+: https://www.flaticon.com/svg/static/icons/svg/2948/2948176.svg
 [icon_website]: https://www.flaticon.com/svg/static/icons/svg/2948/2948176.svg
 [icon_linkedIn]: https://www.flaticon.com/free-icon/linkedin_174857.svg
 [icon_instagram]: https://www.flaticon.com/free-icon/instagram_174855.svg
