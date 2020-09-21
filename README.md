@@ -1,13 +1,11 @@
 ### Hi there, I'm [Franklin Ume Obiekwe][website] 👋
 
 ## I am a Developer, Designer and a Dreamer!
-- 📫 I'm a Computer Science & Business Student
-at Trinity College Dublin
-- 💬 I enjoy Full-stack Development, Playing American Football
-and Socialising
+- 📫 I'm a Computer Science & Business Student at Trinity College Dublin
+- 💬 I enjoy Full-stack Development, Playing American Football and Socialising
 - 🔭 I’m currently working on landing an Internship
-- 🌱 I’m currently learning everything but mainly React
-- 👯 I’m looking to collaborate on new group projects
+- 🌱 I’m currently learning everything (but currently focused on React)
+- 👯 I’m looking to collaborate on new group projects to strengthen my portfolio
 
 ### Connect with me:
 [icon_website][website]
@@ -20,10 +18,10 @@ and Socialising
 
 
 <!--Icons-->
-[icon_website]: https://www.flaticon.com/free-icon/web_1337028?term=website&page=1&position=39
-[icon_linkedIn]: https://www.flaticon.com/free-icon/linkedin_174857
-[icon_instagram]: https://www.flaticon.com/free-icon/instagram_174855
-[icon_facebook]: https://www.flaticon.com/free-icon/facebook_174848
+[icon_website]: https://www.flaticon.com/svg/static/icons/svg/2948/2948176.svg
+[icon_linkedIn]: https://www.flaticon.com/free-icon/linkedin_174857.svg
+[icon_instagram]: https://www.flaticon.com/free-icon/instagram_174855.svg
+[icon_facebook]: https://www.flaticon.com/free-icon/facebook_174848.svg
 
 <!--Links-->
 [website]: https://franklinumeobi.com/
