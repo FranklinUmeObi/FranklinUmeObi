@@ -1,7 +1,8 @@
 [<img align="centre" alt="Franklin Ume Obiekwe" width="100%" src="images\linkdin cover.png" />][website]
 
+<!--
 ### Hi there, I'm [Franklin Ume Obiekwe][website] 👋
-
+-->
 ## A little about me!
 - 📫 I'm a Computer Science & Business Student at Trinity College Dublin
 - 💬 I enjoy Full-stack Development, Playing American Football and Socialising
@@ -44,7 +45,7 @@
 <br/>
 
 ### My Stats
-[![Franklins's github stats](https://github-readme-stats.vercel.app/api?username=FranklinUmeObi)](https://github.com/anuraghazra/github-readme-stats)
+[![Franklins's github stats](https://github-readme-stats.vercel.app/api?username=FranklinUmeObi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
