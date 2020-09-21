@@ -9,7 +9,7 @@
 
 ### Connect with me:
 [icon_website][website]
-![LinkedIn](https://www.flaticon.com/free-icon/linkedin_174857.svg)
+[![LinkedIn][icon_linkedIn]][linkedIn]
 [icon_instagram][instagram]
 [icon_facebook][facebook]
 
@@ -19,8 +19,6 @@
 
 <!--Icons-->
 
-
-: https://www.flaticon.com/svg/static/icons/svg/2948/2948176.svg
 [icon_website]: https://www.flaticon.com/svg/static/icons/svg/2948/2948176.svg
 [icon_linkedIn]: https://www.flaticon.com/free-icon/linkedin_174857.svg
 [icon_instagram]: https://www.flaticon.com/free-icon/instagram_174855.svg
