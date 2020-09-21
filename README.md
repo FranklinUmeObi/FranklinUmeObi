@@ -8,21 +8,15 @@
 - 👯 I’m looking to collaborate on new group projects to strengthen my portfolio
 
 ### Connect with me:
-[icon_website][website]
-[![LinkedIn][icon_linkedIn]][linkedIn]
-[icon_instagram][instagram]
-[icon_facebook][facebook]
+
+[<img align="left" alt="Franklin.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[<img align="left" alt="Franklin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Franklin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
-
-
-<!--Icons-->
-
-[icon_website]: https://www.flaticon.com/svg/static/icons/svg/2948/2948176.svg
-[icon_linkedIn]: https://www.flaticon.com/free-icon/linkedin_174857.svg
-[icon_instagram]: https://www.flaticon.com/free-icon/instagram_174855.svg
-[icon_facebook]: https://www.flaticon.com/free-icon/facebook_174848.svg
 
 <!--Links-->
 [website]: https://franklinumeobi.com/
