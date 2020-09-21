@@ -9,7 +9,7 @@
 
 ### Connect with me:
 [icon_website][website]
-<img align="left" alt="Franklin" width="24px" src="https://www.flaticon.com/free-icon/linkedin_174857.svg" />[linkedIn]
+![LinkedIn](https://www.flaticon.com/free-icon/linkedin_174857.svg)
 [icon_instagram][instagram]
 [icon_facebook][facebook]
 
