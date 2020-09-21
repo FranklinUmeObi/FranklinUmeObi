@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on new group projects to strengthen my portfolio
 
 ### Connect with me:
-[icon_website][website]
+[https://www.flaticon.com/svg/static/icons/svg/2948/2948176.svg][website]
 [icon_linkedIn][linkedIn]
 [icon_instagram][instagram]
 [icon_facebook][facebook]
