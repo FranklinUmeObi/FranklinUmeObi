@@ -1,11 +1,11 @@
-### Hi there, I'm Franklin Ume Obiekwe [website] 👋
+### Hi there, I'm Franklin Ume Obiekwe [My Website][website] 👋
 
 ## I am a Developer, Designer and a Dreamer!
 - 🔭 I’m currently working on landing an Internship
 - 🌱 I’m currently learning everything but mainly React
 - 👯 I’m looking to collaborate on new group projects
 
-###Connect with me:
+### Connect with me:
 [icon_website][website]
 [icon_linkedIn][linkedIn]
 [icon_instagram][instagram]
