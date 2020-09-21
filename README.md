@@ -1,4 +1,4 @@
-[<img align="left" alt="Franklin Ume Obiekwe" width="26px" src="images\linkdin cover.png" />][website]
+[<img align="centre" alt="Franklin Ume Obiekwe" width="100%" src="images\linkdin cover.png" />][website]
 
 ### Hi there, I'm [Franklin Ume Obiekwe][website] 👋
 
